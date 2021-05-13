@@ -1,0 +1,7 @@
+.Blogs {
+    
+    display: flex;
+    flex-flow:  wrap;
+    margin-top: 30px;
+    padding: 0 11px;
+}
